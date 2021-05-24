@@ -231,7 +231,13 @@ body {
   text-align: center;
   margin-bottom: 8px;
   margin-top: 8px;
+  color: #333;
 }
+
+.home-product-list .home-product-item .product-card a {
+  text-decoration: none;
+}
+
 
 .home-product-list .home-product-item .product-card .product-price {
   font-size: 14px;
